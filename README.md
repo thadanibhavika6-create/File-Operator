@@ -152,6 +152,7 @@ Bhavika Thadani
 
 # 🖼️ sample output
 **Welcome Menu:**
-<img width="399" height="129" alt="image" src="https://github.com/user-attachments/assets/dbb4e7d1-e622-4c5f-b289-1b22045a14d3" />
+<img width="1280" height="1560" alt="journal_manager_output" src="https://github.com/user-attachments/assets/b3452ba4-a7b8-4d55-9318-eed59de81bd9" />
 
+---
 ⭐ If you like this project, don't forget to give it a star!
