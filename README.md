@@ -12,6 +12,9 @@ A simple yet powerful **command-line journal application** built with Python. Wr
 
 The idea behind this project is simple: journaling should be **quick, private, and distraction-free**. Every entry you write is automatically timestamped and stored in a local text file (`journal.txt`), so your thoughts stay organized by date and time without any manual effort.
 
+<img width="1400" height="816" alt="SAMPLE" src="https://github.com/user-attachments/assets/8bf53799-2920-42f4-bb42-4c8e43176d32" />
+
+---
 This project was built as a practical way to explore core Python concepts such as:
 
 - **File handling** (reading, writing, and appending to files)
