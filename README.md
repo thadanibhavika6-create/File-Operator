@@ -12,7 +12,8 @@ A simple yet powerful **command-line journal application** built with Python. Wr
 
 The idea behind this project is simple: journaling should be **quick, private, and distraction-free**. Every entry you write is automatically timestamped and stored in a local text file (`journal.txt`), so your thoughts stay organized by date and time without any manual effort.
 
-<img width="1150" height="1050" alt="personal_journal_manager_output (1)" src="https://github.com/user-attachments/assets/58b37e50-5871-4482-9db1-da8366dd8c9d" />
+<img width="1536" height="1024" alt="ChatGPT Image Aug 18, 2026, 07_53_36 PM" src="https://github.com/user-attachments/assets/35056756-49e4-4ee1-b210-e70ee812fe22" />
+
 
 ---
 This project was built as a practical way to explore core Python concepts such as:
@@ -154,8 +155,8 @@ Bhavika Thadani
 ---
 
 # 🖼️ sample output
-**Welcome Menu:**
-<img width="1280" height="1560" alt="journal_manager_output" src="https://github.com/user-attachments/assets/b3452ba4-a7b8-4d55-9318-eed59de81bd9" />
+
+<img width="1150" height="1050" alt="personal_journal_manager_output (1)" src="https://github.com/user-attachments/assets/c14c348d-8b16-49e5-a2b4-0bcb3095ba49" />
 
 ---
 ⭐ If you like this project, don't forget to give it a star!
