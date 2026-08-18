@@ -146,8 +146,12 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Made with ❤️ using Python
-
+Bhavika Thadani
+📍Ahmedabad
 ---
+
+# 🖼️ sample output
+**Welcome Menu:**
+<img width="399" height="129" alt="image" src="https://github.com/user-attachments/assets/dbb4e7d1-e622-4c5f-b289-1b22045a14d3" />
 
 ⭐ If you like this project, don't forget to give it a star!
