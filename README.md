@@ -135,16 +135,12 @@ Today was a productive day!
 - [ ] Encrypt journal entries for privacy
 
 ---
+# 🖼️ sample output
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to fork this project and submit a pull request.
+<img width="1150" height="1050" alt="personal_journal_manager_output (1)" src="https://github.com/user-attachments/assets/c14c348d-8b16-49e5-a2b4-0bcb3095ba49" />
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+[Watch_Video_Here](https://drive.google.com/file/d/17xq_-tml94IKCkd2PmRM1F2ZgpfOREjN/view?usp=drivesdk)
 
 ---
 
@@ -154,9 +150,15 @@ Bhavika Thadani
 📍Ahmedabad
 ---
 
-# 🖼️ sample output
+## 🤝 Contributing
 
-<img width="1150" height="1050" alt="personal_journal_manager_output (1)" src="https://github.com/user-attachments/assets/c14c348d-8b16-49e5-a2b4-0bcb3095ba49" />
+Contributions, issues, and feature requests are welcome! Feel free to fork this project and submit a pull request.
 
 ---
+
 ⭐ If you like this project, don't forget to give it a star!
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-9B59B6)
+![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
