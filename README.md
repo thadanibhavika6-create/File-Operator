@@ -150,13 +150,15 @@ Bhavika Thadani
 📍Ahmedabad
 ---
 
-## 🤝 Contributing
+## 🤝 Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to fork this project and submit a pull request.
 
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
